@@ -1,0 +1,125 @@
+﻿Type,Region,Site,Name,Lat,Long
+wq,6,6.1,Bay of Quinte,44.09608333,-76.88619444
+wq,6,6.2,Cataraqui River,44.23720278,-76.47911389
+wq,6,6.3,Rice Lake,44.14711111,-78.23116667
+wq,6,6.4,Little Lake,44.30036111,-78.30802778
+wq,6,6.5,Sturgeon Lake,44.46258333,-78.69566667
+wq,6,6.6,Chemong Lake,44.47344444,-78.34911111
+wq,6,6.7,Katchewanooka Lake,44.43180556,-78.27330556
+wq,9,9.1,Princess Point Channel,43.27345833,-79.89351389
+wq,9,9.3,Fifteen Mile Pond Outlet,43.18339167,-79.31741944
+wq,9,9.4,Sixteen Mile Pond Outlet,43.18117778,-79.32851944
+wq,9,9.5,Niagara River (near Navy Island),43.05323056,-79.02359444
+wq,9,9.6,Lake Erie at Waverly Beach,42.88275,-78.93908333
+wq,9,9.7,West Thames River,42.95509167,-81.38818611
+wq,9,9.8,Grand Bend Beach,43.31487778,-81.76595556
+wq,9,9.9,Grand Bend Upstream,43.30688611,-81.75545
+wq,1,10,Winnipeg River near Boudreau Island,49.84238056,-94.592775
+baitfish,1,10,Winnipeg River near Boudreau Island,49.84238056,-94.592775
+wq,1,11,Lake of the Woods,49.67803611,-94.48075556
+wq,1,12,Alexandria Bay,48.86638611,-93.43398333
+wq,1,13,Rainy Lake,48.85684444,-93.34965833
+wq,1,14,Marmion Lake,48.85686667,-91.58275556
+wq,1,16,Nym Lake,48.70183333,-91.46127222
+baitfish,1,16,Nym Lake,48.70183333,-91.46127222
+wq,1,60,Revell River,49.54422222,-92.17633611
+wq,1,61,Bending Creek,49.51321,-92.19644
+wq,1,64,Wabigoon River,49.58303,-92.19533
+wq,1,65,Mennin River,49.55105833,-92.32464444
+wq,2,20,Hurkett Cove Conservation Area,48.82510833,-88.48739167
+baitfish,2,20,Hurkett Cove Conservation Area,48.82510833,-88.48739167
+wq,2,21,Honeymoon Cove,48.961025,-88.21979444
+wq,2,22,Cody Island,48.79923056,-86.9989
+wq,3,30,Kamiskotia Lake,48.57102778,-81.615
+baitfish,3,30,Kamiskotia Lake,48.57102778,-81.615
+wq,3,31,Fountain Falls,47.26936111,-79.65313889
+baitfish,3,31,Fountain Falls,47.26936111,-79.65313889
+wq,3,32,Lake Temiskaming,47.33227778,-79.52213889
+wq,4,40,St. Mary's River,46.53773611,-84.21338611
+wq,4,41,Garden River,46.54302222,-84.15761944
+baitfish,4,41,Garden River,46.54302222,-84.15761944
+wq,4,42,Rock Lake Inflow,46.45005278,-83.78213333
+baitfish,4,42,Rock Lake Inflow,46.45005278,-83.78213333
+wq,4,43,Rock Lake Inflow,46.439625,-83.78260833
+baitfish,4,43,Rock Lake Inflow,46.439625,-83.78260833
+wq,4,44,Big Basswood Lake Shore,46.29784444,-83.34893889
+baitfish,4,44,Big Basswood Lake Shore,46.29784444,-83.34893889
+wq,4,45,Big Basswood Lake  ,46.30516667,-83.34794722
+wq,5,50,Nepewassi Lake,46.34780556,-80.66012222
+baitfish,5,50,Nepewassi Lake,46.34780556,-80.66012222
+wq,5,51,Mattawa River,46.30967222,-78.739
+wq,5,52,Ottawa River - Otto Hoden Dam Downstream,46.35834722,-78.72565833
+wq,5,53,Ottawa River - Santa Island Upstream,46.29466944,-78.50296667
+wq,5,54,Ottawa River - Santa Island  ,46.29350556,-78.48160833
+baitfish,5,54,Ottawa River - Santa Island  ,46.29350556,-78.48160833
+wq,7,62,NWMO R7 Site A,44.03197222,-81.33383333
+wq,7,63,NWMO R7 Site B,44.00508333,-81.35461111
+wq,7,70,Arrowhead Lake,45.39583333,-79.20566667
+baitfish,7,70,Arrowhead Lake,45.3918,-79.19943
+wq,7,71,Kempenfelt Bay,44.40161,-79.55664
+wq,7,72,Lovers Creek,44.37255556,-79.65105556
+baitfish,7,72,Lovers Creek,44.37255556,-79.65105556
+wq,7,73,Ainslie Wood Conservation Area,44.63307,-80.87243
+wq,7,74,Wye River,44.73636111,-79.84538889
+wq,7,75,Lafontaine Creek A,44.74594,-80.04855
+wq,7,76,Lafontaine Creek B,44.73278,-80.03744
+wq,8,8.1,The Beaches,43.66813611,-79.28915278
+wq,8,8.2,Glen Stewart Ravine,43.677725,-79.29333056
+wq,8,8.3,Small's Creek,43.67908056,-79.31672778
+wq,8,8.4,Small's Creek Upstream,43.68099444,-79.31504167
+wq,8,8.5,Lower Rouge Valley,43.80632778,-79.13605556
+wq,8,8.6,Humber River Mouth (Sunnyside Beach),43.63339167,-79.46858333
+wq,8,8.7,Lower Don River,43.70386111,-79.33297222
+wq,8,8.8,Credit River at Highway 401,43.60895278,-79.724225
+eDNA,2,E20,Kaministiquita River Upstream,,
+eDNA,2,E21,Kaministiquita River Mouth,48.390246,-89.219571
+eDNA,2,E22,Gravel River,48.920486,-87.768649
+eDNA,2,E23,Little Pic River,48.79235,-86.629163
+eDNA,2,E24,Pic River,,
+eDNA,4,E40,Goulais River,46.723645,-84.382215
+eDNA,4,E41,Garden River,46.542562,-84.157624
+eDNA,4,E42,Serpent River,,
+eDNA,5,E50,Wanapitei River,46.159926,-80.923298
+eDNA,5,E51,French River,,
+eDNA,5,E52,Pickerel River,,
+eDNA,5,E53,Key River,45.893458,-80.565418
+eDNA,5,E54,Naiscoot Lake,45.644554,-80.403746
+eDNA,5,E55,Killarney,45.971505,-81.518877
+eDNA,6,E60,Rideau River,45.438058,-75.685821
+eDNA,6,E61,Bay of Quinte,44.0963123,-76.8866526
+eDNA,7,E70,Shebeshekong River,45.436663,-80.316457
+eDNA,7,E71,Stokes River,45.00031,-81.368814
+eDNA,7,E72,Bighead River,44.604071,-80.594831
+eDNA,7,E73,Pretty River,44.482584,-80.200362
+eDNA,7,E74,Hog Creek,44.74183,-79.78429
+eDNA,7,E75,Sturgeon River,44.73247,-79.7332
+eDNA,6,E76,Coldwater River,44.740076,-79.635568
+eDNA,6,E77,Pine River,44.091104,-81.740883
+eDNA,6,E78,Penetangore River,44.150995,-81.620076
+eDNA,8,E80,Humber River,43.86032,-79.66663
+eDNA,8,E81,Credit River,43.55108,-79.58694
+eDNA,8,E82,Duffins Creek,43.81833,-79.03363
+eDNA,9,E90,Cedar Creek,,
+eDNA,9,E91,Cow Creek (Cull Drain),43.02698,-82.28929
+eDNA,9,E92,Kettle Creek,42.66679,-81.21644
+eDNA,9,E93 ,Big Otter Creek,42.643685,-80.801044
+eDNA,9,E94,Nanticoke,,
+eDNA,9,E95,Grand River,,
+eDNA,9,E96,Niagara River,,
+eDNA,9,E97,Welland River,,
+eDNA,9,E98,Jordan Harbour 1,43.15206,-79.37458
+eDNA,9,E98,Upper Jordan River,,
+eDNA,9,E99,Twenty Mile Creek,,
+OBBN,1,B10,Nym Lake,48.70266667,-91.47211111
+OBBN,1,B11,Perch Lake,48.74038889,-91.84338889
+OBBN,2,B20,Mouth of Aguasabon River,48.77111111,-87.11791667
+OBBN,3,B30,Kamiskotia Lake Outflow,48.573,-81.61575
+OBBN,3,B31,Three Nations Creek,48.51680556,-81.08447222
+OBBN,4,B40,Goulais River,46.72363889,-84.38222222
+OBBN,5,B50,Nepahwin Lake,46.45719444,-80.99911111
+OBBN,6,B60,Bay of Quinte,44.16325,-77.3545
+OBBN,6,B61,Little Lake,44.30036111,-78.30802778
+OBBN,7,B70,Wye River,44.73636111,-79.84538889
+OBBN,9,B90,Barnesdale Marsh,43.18544444,-79.28422222
+OBBN,9,B91,Martindale Pond,43.19016667,-79.27533333
+OBBN,9,B92,Two Mile Creek,43.25147222,-79.08886111
